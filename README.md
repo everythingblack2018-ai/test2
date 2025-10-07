@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🌟%20Personal%20Transformation%20Journey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🌟%20Personal%20Growth%20Journey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&lines=English+Mastery+%7C+Holistic+Wellness+%7C+Career+Growth;Building+Excellence+Through+Daily+Discipline;Mind+%7C+Body+%7C+Soul+%7C+Success" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=1000&lines=English+Mastery+%7C+Mind+%26+Soul+%26+Body;Career+Growth+%7C+Discipline+%7C+Excellence" alt="Typing SVG" />
 </h3>
 
-[![Discipline](https://img.shields.io/badge/Discipline-Daily_Practice-667EEA?style=for-the-badge&logo=target&logoColor=white)](https://example.com)
-[![Growth](https://img.shields.io/badge/Growth-Continuous_Improvement-764BA2?style=for-the-badge&logo=trending-up&logoColor=white)](https://example.com)
-[![Excellence](https://img.shields.io/badge/Excellence-Life_Mastery-F093FB?style=for-the-badge&logo=star&logoColor=white)](https://example.com)
+[![English](https://img.shields.io/badge/English-Mastery-4CAF50?style=for-the-badge&logo=duolingo&logoColor=white)](https://duolingo.com)
+[![Wellness](https://img.shields.io/badge/Mind_Soul_Body-Balance-FF6B9D?style=for-the-badge&logo=heart&logoColor=white)](#)
+[![Career](https://img.shields.io/badge/Career-Growth-2196F3?style=for-the-badge&logo=briefcase&logoColor=white)](#)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -17,27 +17,34 @@
 
 ---
 
-## 🚀 Transformation Overview
+## 🎯 Journey Overview
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/language.png"/>
-<br><b>English Mastery</b>
-<br><sub>4 Core Skills Development</sub>
+<td align="center" width="33%" style="border: 2px solid #667eea; padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+<img src="https://img.icons8.com/fluency/96/translation.png" width="80"/>
+<br><br>
+<h3>English</h3>
+<sub>Language Mastery</sub>
 </td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/meditation.png"/>
-<br><b>Holistic Wellness</b>
-<br><sub>Mind • Body • Soul Balance</sub>
+<td align="center" width="33%" style="border: 2px solid #FF6B9D; padding: 30px; background: linear-gradient(135deg, #FF6B9D 0%, #C44569 100%);">
+<img src="https://img.icons8.com/fluency/96/lotus.png" width="80"/>
+<br><br>
+<h3>Holistic Growth</h3>
+<sub>Mind • Soul • Body</sub>
 </td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/business.png"/>
-<br><b>Career Excellence</b>
-<br><sub>Jobs • Freelancing • Growth</sub>
+<td align="center" width="33%" style="border: 2px solid #4ECDC4; padding: 30px; background: linear-gradient(135deg, #4ECDC4 0%, #556270 100%);">
+<img src="https://img.icons8.com/fluency/96/business.png" width="80"/>
+<br><br>
+<h3>Career</h3>
+<sub>Jobs & Freelance</sub>
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b8d-8dcf-51fd9e8f0b8b.gif" width="500">
@@ -45,118 +52,136 @@
 
 ---
 
-## 🎯 R → English Language Mastery
+## 🌍 R → English Language Mastery
+
+<div align="center">
+
+### 📚 Comprehensive Language Development
+
+![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Powered-667EEA?style=for-the-badge&logo=robot&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
 
 <details open>
-<summary><b>📚 Comprehensive Language Development (Click to expand)</b></summary>
+<summary><b>🗣️ Speaking Mastery (Click to expand)</b></summary>
 <br>
 
-### 🌍 Core Learning Platform
+| Icon | Activity | Tools & Methods |
+|:----:|:---------|:----------------|
+| 🤖 | **AI Conversation Practice** | Regular speaking sessions with AI assistants |
+| 🎯 | **Daily Practice** | Consistent speaking exercises |
+| 📱 | **Real-time Feedback** | AI-powered pronunciation correction |
+| 🎙️ | **Voice Training** | Clarity, fluency, and confidence building |
+| 💬 | **Conversational Skills** | Natural dialogue practice |
 
-| Icon | Platform | Purpose |
-|:----:|:---------|:--------|
-| 🦜 | **Duolingo** | Daily structured learning & practice |
-| 📱 | **Gamified Approach** | Consistent engagement & streak building |
-| 🎯 | **Skill Tracking** | Measurable progress & achievements |
+**Daily Goal:** 30+ minutes of active speaking practice with AI
 
-### 🗣️ Speaking Excellence
+</details>
 
-| Icon | Method | Tool | Focus |
-|:----:|:-------|:-----|:------|
-| 🤖 | **AI Conversation** | ChatGPT, Voice AI | Real-time speaking practice |
-| 💬 | **Daily Practice** | AI Voice Chat | Pronunciation & fluency |
-| 🎙️ | **Interactive Dialogue** | AI Language Partners | Natural conversation flow |
-| 📊 | **Feedback Loop** | AI Analysis | Accent improvement & clarity |
+<details open>
+<summary><b>✍️ Writing Excellence (Click to expand)</b></summary>
+<br>
 
-**Speaking Routine:**
-- ✅ 15-30 minutes daily AI conversation
-- ✅ Focus on pronunciation and natural flow
-- ✅ Record and review progress weekly
-- ✅ Practice different topics and scenarios
+| Icon | Activity | Tools & Methods |
+|:----:|:---------|:----------------|
+| 🤖 | **AI-Assisted Writing** | Regular writing sessions with AI feedback |
+| 📝 | **Grammar & Style** | Real-time corrections and improvements |
+| 📄 | **Various Formats** | Essays, emails, articles, creative writing |
+| 🔍 | **Vocabulary Building** | Context-based word learning |
+| ✨ | **Refinement Practice** | Editing and polishing skills |
 
-### ✍️ Writing Mastery
+**Daily Goal:** Write at least 500 words with AI review
 
-| Icon | Method | Tool | Focus |
-|:----:|:-------|:-----|:------|
-| 📝 | **AI-Assisted Writing** | ChatGPT, Grammarly | Grammar & style improvement |
-| ✨ | **Creative Writing** | Writing AI Tools | Expression & vocabulary |
-| 📧 | **Professional Communication** | AI Editors | Business writing skills |
-| 🔄 | **Iterative Improvement** | AI Feedback | Error correction & learning |
+</details>
 
-**Writing Routine:**
-- ✅ Write daily journal entries in English
-- ✅ Practice different formats (emails, essays, stories)
-- ✅ Get AI feedback and corrections
-- ✅ Implement improvements consistently
+<details open>
+<summary><b>👂 Listening Comprehension (Click to expand)</b></summary>
+<br>
 
-### 👂 Listening Comprehension
+| Icon | Activity | Tools & Methods |
+|:----:|:---------|:----------------|
+| 🎧 | **Active Listening** | Everything I listen to, I understand completely |
+| 📚 | **Course Focus** | Understanding every word in educational content |
+| 🎬 | **Media Consumption** | Movies, podcasts, audiobooks |
+| 🔄 | **Repeat & Review** | Re-listen until full comprehension |
+| 📊 | **Comprehension Check** | Self-testing and verification |
 
-| Icon | Method | Source | Focus |
-|:----:|:-------|:-------|:------|
-| 🎧 | **Active Listening** | English Courses | 100% comprehension goal |
-| 📹 | **Video Content** | Educational Videos | Understanding context |
-| 🎬 | **Entertainment** | Movies, Podcasts | Natural speech patterns |
-| 🔁 | **Repetition Strategy** | Rewatch until mastery | Deep understanding |
+**Core Principle:** Never move forward without understanding everything
 
-**Listening Strategy:**
-```
-🎯 Focus Area: Complete Understanding
-    ├── 🎓 Educational Content (Primary)
-    │   └── Listen until you understand EVERYTHING
-    ├── 🗣️ Native Speakers (Practice)
-    │   └── Adapt to different accents & speeds
-    ├── 📚 Course Material (Deep Learning)
-    │   └── Comprehensive comprehension
-    └── 🎵 Variety Content (Exposure)
-        └── Diverse topics & speaking styles
-```
+</details>
 
-### 📖 Reading Proficiency
+<details open>
+<summary><b>📖 Reading Mastery (Click to expand)</b></summary>
+<br>
 
-| Icon | Method | Tool | Focus |
-|:----:|:-------|:-----|:------|
-| 📚 | **NotebookLM Study** | Google NotebookLM | Deep book comprehension |
-| 📱 | **AI-Powered Learning** | NotebookLM Audio | Multi-sensory learning |
-| 🎯 | **Strategic Reading** | Every book you own | Complete understanding |
-| 💡 | **Active Processing** | AI Summaries & Q&A | Retention & application |
+| Icon | Activity | Tools & Methods |
+|:----:|:---------|:----------------|
+| 📚 | **NotebookLM Study** | Deep analysis of every book |
+| 🔍 | **Comprehensive Reading** | Understanding every detail |
+| 📝 | **Note-Taking** | Active reading with annotations |
+| 🧠 | **Retention Focus** | Memorization and recall practice |
+| 💡 | **Application** | Using learned concepts in practice |
 
-**Reading Approach:**
-1. 📥 Upload book to NotebookLM
-2. 🎧 Listen to AI-generated audio overview
-3. 📝 Read with AI assistance for difficult parts
-4. 💬 Discuss concepts with AI for deeper understanding
-5. ✅ Summarize key learnings in your own words
+**Method:** Study every book thoroughly with NotebookLM assistance
 
 </details>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### 🎯 Four Pillars of Language Mastery
+
+```mermaid
+graph TD
+    A[🌍 English Mastery] --> B[🗣️ Speaking]
+    A --> C[✍️ Writing]
+    A --> D[👂 Listening]
+    A --> E[📖 Reading]
+    
+    B -->|AI Practice| F[🤖 Daily Sessions]
+    C -->|AI Feedback| G[📝 Writing Practice]
+    D -->|Full Understanding| H[🎧 Active Listening]
+    E -->|NotebookLM| I[📚 Deep Study]
+    
+    style A fill:#667eea
+    style B fill:#764ba2
+    style C fill:#f093fb
+    style D fill:#4facfe
+    style E fill:#00f2fe
+```
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 🧘 R → Mind & Soul & Body Harmony
+## 🧘 R → Mind & Soul & Body
+
+<div align="center">
+
+### ⚖️ Holistic Personal Development
+
+![Wellness](https://img.shields.io/badge/Wellness-Complete-FF6B9D?style=for-the-badge&logo=heart&logoColor=white)
+![Discipline](https://img.shields.io/badge/Discipline-Master-764BA2?style=for-the-badge&logo=target&logoColor=white)
+![Balance](https://img.shields.io/badge/Balance-Harmony-4ECDC4?style=for-the-badge&logo=yin-yang&logoColor=white)
+
+</div>
 
 <details open>
-<summary><b>✨ Soul - Spiritual Foundation (Click to expand)</b></summary>
+<summary><b>🕌 Soul - Spiritual Foundation (Click to expand)</b></summary>
 <br>
 
-### 🕌 Spiritual Discipline
+| Icon | Practice | Commitment |
+|:----:|:---------|:-----------|
+| 🕌 | **Five Daily Prayers** | Pray all five prayers on time, every day |
+| ✨ | **Spiritual Purity** | Stay away from all sins |
+| 🛡️ | **Self-Control** | Especially avoid sins that arouse sexual desire |
+| 📿 | **Mindfulness** | Present in every prayer |
+| 💫 | **Connection** | Strengthen relationship with Allah |
 
-| Icon | Practice | Schedule | Benefit |
-|:----:|:---------|:---------|:--------|
-| 🕌 | **Five Daily Prayers** | On Time - Every Prayer | Spiritual connection & discipline |
-| ⏰ | **Punctuality** | Never miss prayer time | Time management & mindfulness |
-| 🙏 | **Focused Worship** | Quality over quantity | Inner peace & clarity |
-
-### 🛡️ Spiritual Protection
-
-| Icon | Practice | Implementation | Impact |
-|:----:|:---------|:---------------|:-------|
-| 🚫 | **Avoid All Sins** | Constant awareness | Purity of heart & mind |
-| 💎 | **Special Focus** | Sins that arouse desire | Self-control & discipline |
-| ✨ | **Pure Lifestyle** | Guard eyes, heart, actions | Mental clarity & focus |
-| 🌟 | **Mindful Living** | Every action intentional | Spiritual elevation |
+**Core Value:** Spiritual discipline is the foundation of all success
 
 </details>
 
@@ -164,78 +189,23 @@
 <summary><b>💪 Body - Physical Excellence (Click to expand)</b></summary>
 <br>
 
-### 😴 Sleep Optimization
+| Icon | Practice | Schedule |
+|:----:|:---------|:---------|
+| 😴 | **Sleep Schedule** | 10 PM - 5 AM (7 hours quality sleep) |
+| 🍽️ | **Three Meals Daily** | Breakfast • Lunch • Dinner |
+| 💊 | **Daily Supplements** | Take all supplements consistently |
+| 🤸 | **Calisthenics Training** | Regular bodyweight exercise routine |
+| 🏃 | **Physical Activity** | Build strength, flexibility, endurance |
 
-| Icon | Parameter | Schedule | Benefit |
-|:----:|:----------|:---------|:--------|
-| 🌙 | **Sleep Time** | 10:00 PM - 5:00 AM | 7 hours quality sleep |
-| ⏰ | **Consistency** | Every single night | Circadian rhythm optimization |
-| 🛌 | **Sleep Quality** | Dark room, cool temp | Deep recovery & restoration |
-| ☀️ | **Morning Energy** | Wake at 5 AM | Maximum productivity hours |
+### 📅 Daily Physical Routine
 
-**Sleep Routine:**
 ```
-🌅 Evening Routine (9:00 PM)
-    ├── 📵 No screens after 9 PM
-    ├── 📖 Light reading or reflection
-    ├── 🧘 Relaxation exercises
-    └── 🛌 Sleep by 10 PM sharp
-
-🌄 Morning Routine (5:00 AM)
-    ├── ☀️ Wake immediately (no snooze)
-    ├── 🕌 Fajr prayer
-    ├── 📚 Quran or beneficial reading
-    └── 🏃 Begin productive day
-```
-
-### 🍽️ Nutrition Protocol
-
-| Icon | Meal | Timing | Focus |
-|:----:|:-----|:-------|:------|
-| 🌅 | **Breakfast** | After Fajr (6:00 AM) | Protein + complex carbs |
-| ☀️ | **Lunch** | 1:00 PM | Balanced macros |
-| 🌙 | **Dinner** | 7:00 PM | Light, digestible |
-
-**Nutrition Principles:**
-- ✅ Three complete, balanced meals daily
-- ✅ No skipping meals - consistency is key
-- ✅ Proper hydration throughout the day
-- ✅ Whole foods, minimal processed items
-- ✅ Adequate protein for muscle recovery
-
-### 💊 Daily Supplements
-
-| Icon | Category | Purpose | Timing |
-|:----:|:---------|:--------|:-------|
-| 💊 | **Essential Vitamins** | Overall health | Morning with breakfast |
-| 🦴 | **Minerals** | Bone & muscle health | With meals |
-| 🧠 | **Cognitive Support** | Mental clarity | Morning |
-| 💪 | **Fitness Support** | Recovery & performance | Post-workout |
-
-**Supplement Checklist:**
-- ☑️ Morning supplements with breakfast
-- ☑️ Pre-workout supplements (if applicable)
-- ☑️ Post-workout recovery
-- ☑️ Evening supplements (if prescribed)
-- ☑️ Never skip - daily consistency
-
-### 🤸 Calisthenics Training
-
-| Icon | Focus | Exercises | Frequency |
-|:----:|:------|:----------|:----------|
-| 💪 | **Upper Body** | Push-ups, Pull-ups, Dips | 3-4x per week |
-| 🦵 | **Lower Body** | Squats, Lunges, Pistols | 3-4x per week |
-| 🧘 | **Core** | Planks, L-sits, Hollow holds | Daily |
-| 🏃 | **Cardio** | Running, Jumping rope | 3x per week |
-
-**Training Philosophy:**
-```
-🎯 Calisthenics Benefits
-    ├── 💪 Functional strength
-    ├── 🧘 Body control & coordination
-    ├── 🏠 Train anywhere, anytime
-    ├── 🎯 Progressive skill development
-    └── 🧠 Mind-muscle connection
+05:00 AM - Wake Up (After Fajr Prayer)
+06:00 AM - Calisthenics Training
+08:00 AM - Breakfast + Supplements
+01:00 PM - Lunch
+07:00 PM - Dinner + Supplements
+10:00 PM - Sleep
 ```
 
 </details>
@@ -244,257 +214,149 @@
 <summary><b>🧠 Mind - Mental Mastery (Click to expand)</b></summary>
 <br>
 
-### ⚡ Core Mental Pillars
+### 🎯 Core Mental Development
 
-| Icon | Pillar | Implementation | Outcome |
-|:----:|:-------|:---------------|:--------|
-| 🎯 | **Discipline** | Daily non-negotiables | Unwavering consistency |
-| 🔄 | **Habit Building** | Systematic routine creation | Automatic excellence |
-| ⏰ | **Time Management** | Strategic scheduling | Maximum productivity |
+| Icon | Focus Area | Implementation |
+|:----:|:-----------|:---------------|
+| ⚡ | **Discipline** | Master self-control in all areas |
+| 🔄 | **Habit Building** | Establish and maintain positive routines |
+| ⏰ | **Time Management** | Optimize every hour of the day |
+| 📚 | **Reading** | Read all the books I have systematically |
+| 🎮 | **Dopamine Control** | Generate dopamine naturally + Stop consuming artificial dopamine |
 
-### 📚 Reading & Learning
+### 🤖 AI & Learning Strategy
 
-| Icon | Focus | Method | Goal |
-|:----:|:------|:-------|:-----|
-| 📖 | **Read All Books** | Every book you own | Complete library |
-| 🎧 | **NotebookLM** | AI-assisted understanding | Deep comprehension |
-| 📝 | **Active Reading** | Notes & summaries | Knowledge retention |
-| 💡 | **Application** | Implement learnings | Real-world results |
+| Icon | Strategy | Purpose |
+|:----:|:---------|:--------|
+| 🧠 | **Use AI Less** | Build independent thinking |
+| 🔍 | **Deep Understanding** | Deeply understand everything AI gives me |
+| 📖 | **Active Learning** | Don't just copy-paste, learn the concepts |
+| 💡 | **Critical Thinking** | Question and verify information |
 
-**Reading System:**
-1. 📚 Catalog all unread books
-2. 📅 Create reading schedule
-3. 🎯 One book at a time - finish before starting next
-4. 📝 Take detailed notes
-5. 💬 Discuss with AI for deeper understanding
-6. ✅ Apply key concepts immediately
+### 💪 Mental Toughness Development
 
-### 🎮 Dopamine Management
+| Icon | Area | Development |
+|:----:|:-----|:------------|
+| 🧠 | **Mental Toughness** | Resilience and focus under pressure |
+| 🤝 | **Psychological Toughness** | Emotional control and stability |
+| 💪 | **Physical Toughness** | Push through physical challenges |
 
-| Icon | Strategy | Action | Result |
-|:----:|:---------|:-------|:-------|
-| 🌱 | **Natural Generation** | Exercise, achievement, learning | Sustainable energy |
-| 🚫 | **Stop Consumption** | Limit social media, gaming, junk content | Mental clarity |
-| 🎯 | **Delayed Gratification** | Work before pleasure | Increased willpower |
-| ⚡ | **Productive Highs** | Celebrate real accomplishments | Authentic motivation |
+### 🎓 Personal Growth Content
 
-**Dopamine Detox Protocol:**
-```
-❌ Reduce/Eliminate:
-    ├── 📱 Mindless social media scrolling
-    ├── 🎮 Excessive gaming
-    ├── 🍔 Junk food
-    ├── 📺 Binge-watching
-    └── 🔞 All inappropriate content
-
-✅ Increase Natural Dopamine:
-    ├── 💪 Exercise & movement
-    ├── 🎯 Completing challenging tasks
-    ├── 📚 Learning new skills
-    ├── 🤝 Meaningful social connections
-    └── 🏆 Achieving goals
-```
-
-### 🤖 AI Usage Philosophy
-
-| Icon | Principle | Implementation | Benefit |
-|:----:|:----------|:---------------|:--------|
-| 🎯 | **Use Less** | Only when necessary | Self-reliance development |
-| 🧠 | **Understand Deeply** | Never copy-paste blindly | True learning |
-| 💡 | **Question Everything** | Why does this work? | Deep comprehension |
-| 🔧 | **Adapt & Modify** | Make it yours | Original thinking |
-
-**AI Interaction Guidelines:**
-- ✅ Use AI as a teacher, not a shortcut
-- ✅ Always understand before implementing
-- ✅ Ask "why" and "how" questions
-- ✅ Create your own solutions first, then verify
-- ✅ Use AI to enhance, not replace, thinking
-
-### 🛡️ Mental + Psychological + Physical Toughness
-
-| Icon | Type | Training Method | Application |
-|:----:|:-----|:----------------|:------------|
-| 💪 | **Physical** | Calisthenics, cold showers | Body resilience |
-| 🧠 | **Mental** | Challenging tasks, focus training | Mind endurance |
-| 💎 | **Psychological** | Discomfort tolerance, discipline | Emotional strength |
-| 🔥 | **Combined** | Push beyond comfort zone daily | Unbreakable character |
-
-**Toughness Development:**
-```
-🎯 Daily Toughness Rituals
-    ├── 🚿 Cold showers (5 minutes)
-    ├── 🏃 Early morning workout
-    ├── 📖 Read difficult material
-    ├── 🎯 Do the hardest task first
-    ├── 🚫 Say no to temptations
-    └── ⏰ Stick to schedule no matter what
-```
-
-### 📺 Wisdom & Self-Knowledge
-
-| Icon | Teacher | Content Focus | Purpose |
-|:----:|:--------|:--------------|:--------|
-| 🎥 | **Amr Abdelaziz** | Identity & purpose | Who you are |
-| 📚 | **Historical Context** | Understanding roots | What got us here |
-| 🎯 | **Duties & Responsibilities** | Life mission | What you must do |
-
-**Learning Framework:**
-1. 🎬 Watch Amr Abdelaziz's videos systematically
-2. 📝 Take detailed notes on key concepts
-3. 🤔 Reflect deeply on each lesson
-4. 💬 Discuss insights with trusted people
-5. 🎯 Apply teachings to daily life
-6. 🔄 Revisit and reinforce regularly
+| Icon | Content | Purpose |
+|:----:|:--------|:--------|
+| 🎬 | **Amr Abdelaziz Videos** | Watch to understand: |
+| ❓ | **Who You Are** | Self-awareness and identity |
+| 🌍 | **What Got Us Here** | Understanding history and context |
+| ✅ | **Your Duties** | Clear understanding of responsibilities |
 
 </details>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### 🌟 The Three Pillars of Holistic Growth
+
+```mermaid
+graph TD
+    A[🧘 Holistic Growth] --> B[🕌 Soul]
+    A --> C[💪 Body]
+    A --> D[🧠 Mind]
+    
+    B --> E[Prayer & Purity]
+    C --> F[Sleep • Nutrition • Exercise]
+    D --> G[Discipline • Habits • Knowledge]
+    
+    E --> H[🌟 Complete Balance]
+    F --> H
+    G --> H
+    
+    style A fill:#667eea
+    style B fill:#764ba2
+    style C fill:#FF6B9D
+    style D fill:#4ECDC4
+    style H fill:#43e97b
+```
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 💼 R → Money & Jobs & Freelancer Success
+## 💼 R → Money & Jobs & Freelancer
+
+<div align="center">
+
+### 🚀 Career Development & Financial Growth
+
+![Job Search](https://img.shields.io/badge/Job_Search-Daily-2196F3?style=for-the-badge&logo=search&logoColor=white)
+![Freelance](https://img.shields.io/badge/Freelance-Active-00C853?style=for-the-badge&logo=upwork&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Expand-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</div>
 
 <details open>
-<summary><b>🎯 Job Search Excellence (Click to expand)</b></summary>
+<summary><b>🔍 Daily Job Search Strategy (Click to expand)</b></summary>
 <br>
 
-### 📊 Daily Job Search Protocol
+| Icon | Activity | Frequency |
+|:----:|:---------|:----------|
+| 🔎 | **Search for Jobs** | Every single day |
+| 📝 | **Apply to Positions** | Apply immediately when suitable |
+| 🎯 | **Target Companies** | Focus on aligned opportunities |
+| 📊 | **Track Applications** | Monitor status and follow-ups |
+| 🔄 | **Consistency** | Never skip a day |
 
-| Icon | Action | Platform | Frequency |
-|:----:|:-------|:---------|:----------|
-| 🔍 | **Active Search** | LinkedIn, Indeed, Wuzzuf | Daily |
-| 📝 | **Applications** | Multiple platforms | Minimum 3-5 per day |
-| 🎯 | **Targeted Approach** | Relevant positions only | Quality over quantity |
-| 📧 | **Follow-ups** | Track applications | Weekly review |
-
-**Daily Job Search Routine:**
-```
-⏰ Daily Schedule (1-2 hours)
-    ├── 🔍 Search new postings (30 min)
-    ├── 📝 Customize CV for each role (30 min)
-    ├── ✍️ Write personalized cover letters (20 min)
-    ├── 📤 Submit applications (10 min)
-    └── 📊 Track in spreadsheet (10 min)
-```
-
-### 🎯 Application Tracking System
-
-| Date | Company | Position | Platform | Status | Follow-up |
-|:----:|:--------|:---------|:---------|:-------|:----------|
-| Example | Company Name | Job Title | LinkedIn | Applied | Date + 1 week |
+**Daily Goal:** Apply to at least 3-5 relevant positions
 
 </details>
 
 <details open>
-<summary><b>💰 Freelancing Platforms Management (Click to expand)</b></summary>
+<summary><b>🌐 Freelance Platform Management (Click to expand)</b></summary>
 <br>
 
-### 🌟 Mostaql (مستقل) Strategy
+### 📱 Mostaql - Ongoing Monitoring
 
-| Icon | Action | Timing | Purpose |
-|:----:|:-------|:-------|:--------|
-| 🔔 | **Regular Checks** | Every 2-3 hours | Catch new projects early |
-| 📱 | **Mobile Alerts** | Enable notifications | Never miss opportunities |
-| 💬 | **Quick Response** | Within 1 hour | Beat competition |
-| 🎯 | **Strategic Bidding** | Quality proposals | Higher acceptance rate |
+| Icon | Action | Frequency |
+|:----:|:-------|:----------|
+| 👀 | **Check Mostaql** | Multiple times throughout the day |
+| ⚡ | **Quick Response** | Respond to opportunities immediately |
+| 📋 | **Proposal Quality** | Write compelling, customized proposals |
+| 🎯 | **Selective Bidding** | Focus on projects matching skills |
 
-**Mostaql Optimization:**
-- ✅ Set up push notifications
-- ✅ Check morning, afternoon, evening
-- ✅ Prepare template proposals (customize per project)
-- ✅ Maintain high response rate
-- ✅ Build strong portfolio with completed projects
+### 🛍️ Khamsat - Product Development
 
-### 🛍️ Khamsat (خمسات) Excellence
-
-| Icon | Focus | Action | Goal |
-|:----:|:------|:-------|:-----|
-| 📚 | **Study Platform** | Understand best sellers | Market knowledge |
-| 📈 | **Improve Accounts** | Optimize profile & services | Higher visibility |
-| 🎯 | **Add Projects** | Create marketable services | Passive income |
-| 💰 | **Pricing Strategy** | Competitive but valuable | Attract buyers |
-
-**Khamsat Service Development:**
-```
-🎯 Service Creation Strategy
-    ├── 📊 Research trending services
-    ├── 🎨 Create compelling service images
-    ├── ✍️ Write clear descriptions
-    ├── 💎 Offer unique value propositions
-    ├── 📦 Package services (basic, standard, premium)
-    └── 🔄 Update based on feedback
-```
-
-**Service Categories to Develop:**
-1. 🎨 Design services (based on Canva skills)
-2. 📝 Content writing (English + Arabic)
-3. 💻 WordPress setup/customization
-4. 🎬 Video editing (DaVinci Resolve)
-5. 🤖 Marketing automation (n8n workflows)
+| Icon | Action | Frequency |
+|:----:|:-------|:----------|
+| 📚 | **Study & Improve** | Regular account optimization |
+| 🎨 | **Add Projects** | Create sellable services/products |
+| 💰 | **Pricing Strategy** | Competitive and valuable offerings |
+| ⭐ | **Quality Focus** | Excellence in every service |
 
 </details>
 
 <details open>
-<summary><b>📄 Professional Profile Management (Click to expand)</b></summary>
+<summary><b>📊 Weekly Profile Review & Optimization (Click to expand)</b></summary>
 <br>
 
-### 🔄 Weekly Review Schedule
+### 🗓️ Every Week - Complete Profile Audit
 
-| Icon | Asset | Review Day | Action Items |
-|:----:|:------|:-----------|:-------------|
-| 📄 | **CV** | Sunday | Update, optimize, tailor |
-| 💼 | **LinkedIn** | Monday | Post, engage, connect |
-| 🔍 | **Wuzzuf** | Tuesday | Profile update, job search |
-| 💻 | **GitHub** | Wednesday | Push projects, update README |
-| 🌐 | **Freelancer Profiles** | Thursday | Portfolio updates, proposals |
+| Platform | Review Focus | Action Items |
+|:---------|:-------------|:-------------|
+| 📄 **CV** | Update with new skills & experiences | Keep fresh and relevant |
+| 💼 **LinkedIn** | Profile completeness, posts, engagement | Active professional presence |
+| 🔍 **Wuzzuf** | Job applications, profile optimization | Local market focus |
+| 💻 **GitHub** | Project updates, contributions, README | Technical portfolio |
+| 🌐 **Freelancer Profiles** | Mostaql, Khamsat, others | Consistent branding |
 
 **Weekly Review Checklist:**
-
-#### 📄 CV Optimization
-- ☑️ Add recent skills/certifications
-- ☑️ Update project descriptions
-- ☑️ Quantify achievements with numbers
-- ☑️ Customize for target industries
-- ☑️ Proofread for errors
-- ☑️ Update contact information
-- ☑️ Optimize keywords for ATS
-
-#### 💼 LinkedIn Profile
-- ☑️ Update headline with current focus
-- ☑️ Refresh about section
-- ☑️ Add recent projects/achievements
-- ☑️ Post valuable content (2-3x per week)
-- ☑️ Engage with others' posts (daily)
-- ☑️ Accept/send connection requests
-- ☑️ Endorse connections' skills
-
-#### 🔍 Wuzzuf Profile
-- ☑️ Keep profile 100% complete
-- ☑️ Update availability status
-- ☑️ Add new skills
-- ☑️ Upload latest CV
-- ☑️ Set job preferences accurately
-- ☑️ Respond to recruiter messages quickly
-
-#### 💻 GitHub Portfolio
-- ☑️ Push active projects
-- ☑️ Update README files
-- ☑️ Add project descriptions
-- ☑️ Include screenshots/demos
-- ☑️ Pin best repositories
-- ☑️ Contribute to open source
-- ☑️ Keep commit history active
-
-#### 🌐 Freelancer Profiles
-- ☑️ **Mostaql**: Update portfolio, add completed projects
-- ☑️ **Khamsat**: Add new services, update existing ones
-- ☑️ **Upwork/Freelancer.com**: Refresh profile, update skills
-- ☑️ All platforms: Maintain 100% profile completion
-- ☑️ Add client testimonials when received
-- ☑️ Update availability status
+- ✅ Update all profiles with latest information
+- ✅ Check profile completeness scores
+- ✅ Review and improve profile descriptions
+- ✅ Add new skills and certifications
+- ✅ Update portfolio with recent work
+- ✅ Check for spelling/grammar errors
+- ✅ Optimize keywords for searchability
 
 </details>
 
@@ -502,200 +364,180 @@
 <summary><b>🤝 Networking & Recommendations (Click to expand)</b></summary>
 <br>
 
-### 🌐 Network Expansion Strategy
+### 📧 Active Outreach Strategy
 
-| Icon | Action | Method | Frequency |
-|:----:|:-------|:-------|:----------|
-| 📧 | **Send CV** | Email campaigns | 5-10 per week |
-| 🤝 | **Connect** | LinkedIn outreach | Daily |
-| 💬 | **Engage** | Comment, share, message | Daily |
-| 🙏 | **Request Recommendations** | From previous clients/colleagues | Monthly |
+| Icon | Activity | Purpose |
+|:----:|:---------|:--------|
+| 📨 | **Send CV to People** | Proactive job hunting |
+| 🌐 | **Expand Your Network** | Connect with industry professionals |
+| 🔍 | **Find Recommenders** | Look for people who can recommend you |
+| 💬 | **Engage Meaningfully** | Build real relationships, not just connections |
+| 🎯 | **Strategic Networking** | Focus on mutually beneficial connections |
 
-**Networking Action Plan:**
+### 🌟 Networking Best Practices
 
-#### 📧 CV Distribution Strategy
-```
-🎯 Target Recipients
-    ├── 👔 Hiring Managers (Direct approach)
-    ├── 👥 Industry Professionals (Referrals)
-    ├── 🏢 Company HR departments
-    ├── 🎓 Alumni network
-    └── 🤝 Professional connections
-```
-
-**Email Template Structure:**
-1. 👋 Personalized greeting
-2. 🎯 Brief introduction (2-3 lines)
-3. 💎 Value proposition (what you offer)
-4. 📎 CV attachment
-5. 🙏 Call to action (meeting/interview request)
-6. ✅ Professional signature
-
-#### 🤝 LinkedIn Networking Tactics
-
-| Icon | Tactic | Implementation | Goal |
-|:----:|:-------|:---------------|:-----|
-| 🔍 | **Strategic Connections** | 10-15 new connections daily | Expand network |
-| 💬 | **Meaningful Engagement** | Comment on 5-10 posts daily | Build relationships |
-| 📝 | **Value-Adding Messages** | Personalized connection requests | Quality over quantity |
-| 🎯 | **Target Industries** | Focus on your niche | Relevant connections |
-
-**Connection Request Template:**
-```
-Hi [Name],
-
-I noticed [specific detail about their work/profile]. 
-I'm a [your expertise] passionate about [relevant field].
-
-I'd love to connect and learn from your experience in [their area].
-
-Looking forward to connecting!
-```
-
-#### 🏆 Recommendation Strategy
-
-**Who to Ask:**
-- ✅ Previous employers/managers
-- ✅ Satisfied clients (freelance projects)
-- ✅ Colleagues who've seen your work
-- ✅ Professors/instructors (for recent grads)
-- ✅ Mentors in your field
-
-**How to Request:**
-1. 🎯 Be specific about what you need
-2. 💬 Make it easy (provide bullet points of your strengths)
-3. 🙏 Ask politely, never demand
-4. ⏰ Give them time (at least 1-2 weeks)
-5. 🎁 Offer to reciprocate
-6. 💌 Thank them sincerely
-
-**Recommendation Request Template:**
-```
-Hi [Name],
-
-I hope you're doing well! I'm currently [job searching/building profile], 
-and I was wondering if you'd be comfortable writing a brief recommendation 
-for me on LinkedIn.
-
-We worked together on [specific project/time period], and I believe your 
-perspective on [specific skills] would be valuable.
-
-If you agree, I'm happy to provide key points that might be helpful. 
-Please let me know if you need any information from me.
-
-Thank you so much for considering this!
-
-Best regards,
-[Your Name]
-```
-
-#### 📊 Networking Metrics to Track
-
-| Metric | Target | Tracking Method |
-|:-------|:-------|:----------------|
-| New Connections | 50-70 per week | LinkedIn analytics |
-| Email Sends | 5-10 per week | Spreadsheet tracker |
-| Responses Received | Track % | Follow-up log |
-| Recommendations | 5-10 total | LinkedIn profile |
-| Coffee Chats/Calls | 2-3 per month | Calendar |
+- ✅ Personalize every message
+- ✅ Offer value before asking for favors
+- ✅ Follow up consistently
+- ✅ Build genuine relationships
+- ✅ Stay active and visible
+- ✅ Share knowledge and help others
 
 </details>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 
----
-
-## 📊 Progress Tracking & Accountability
-
-<div align="center">
-
-### 🎯 Daily Scorecard
-
-| Category | Daily Goal | Status |
-|:---------|:-----------|:-------|
-| 🗣️ English Speaking | 15-30 min with AI | ☐ |
-| ✍️ English Writing | 1 entry + AI feedback | ☐ |
-| 👂 English Listening | 30-60 min focused | ☐ |
-| 📖 English Reading | 20-30 min with NotebookLM | ☐ |
-| 🕌 Five Prayers | All on time | ☐ |
-| 😴 Sleep Schedule | 10 PM - 5 AM | ☐ |
-| 🍽️ Three Meals | Complete nutrition | ☐ |
-| 💊 Supplements | All taken | ☐ |
-| 🤸 Calisthenics | Workout completed | ☐ |
-| 📚 Reading | Books in progress | ☐ |
-| 🔍 Job Search | 3-5 applications | ☐ |
-| 💰 Mostaql Check | 3x times | ☐ |
-| 🛍️ Khamsat Update | Weekly review | ☐ |
-
-### 📈 Weekly Review Metrics
-
-| Area | Weekly Target | Month Target | Progress |
-|:-----|:--------------|:-------------|:---------|
-| 📄 Job Applications | 15-25 | 60-100 | Track |
-| 💼 Mostaql Bids | 10-15 | 40-60 | Track |
-| 🛍️ Khamsat Services | 1-2 new | 4-8 | Track |
-| 🤝 LinkedIn Connections | 50-70 | 200-300 | Track |
-| 📧 CV Sends | 5-10 | 20-40 | Track |
-| 🏆 Skills Improved | 2-3 areas | 8-12 | Track |
-
-</div>
-
----
-
-## 🎯 Success Philosophy
+### 💰 Career Growth Framework
 
 ```mermaid
-graph TD
-    A[🎯 Clear Vision] -->|Discipline| B[📅 Daily Actions]
-    B -->|Consistency| C[🔄 Habits Formed]
-    C -->|Time| D[📈 Progress Made]
-    D -->|Persistence| E[🏆 Goals Achieved]
-    E -->|Growth| F[🚀 Next Level]
-    F -->|Evolution| A
+graph LR
+    A[💼 Career Growth] --> B[🔍 Daily Job Search]
+    A --> C[🌐 Freelance Platforms]
+    A --> D[📊 Weekly Reviews]
+    A --> E[🤝 Networking]
     
-    style A fill:#667eea
-    style B fill:#764ba2
-    style C fill:#F093FB
-    style D fill:#4FACFE
-    style E fill:#00F2FE
-    style F fill:#43E97B
+    B -->|Apply| F[💼 Job Opportunities]
+    C -->|Projects| G[💰 Income Streams]
+    D -->|Optimize| H[📈 Profile Strength]
+    E -->|Connect| I[🌟 Opportunities]
+    
+    F --> J[🚀 Career Success]
+    G --> J
+    H --> J
+    I --> J
+    
+    style A fill:#2196F3
+    style J fill:#00C853
 ```
-
-<div align="center">
-
-### 💡 Core Principles
-
-| Principle | Meaning | Application |
-|:---------:|:--------|:------------|
-| 🎯 **Discipline** | Do what needs to be done, when it needs to be done | Non-negotiable daily routines |
-| 🔄 **Consistency** | Small actions daily compound into massive results | Show up every single day |
-| ⏰ **Time Management** | Guard your time like your life depends on it | Because it does |
-| 💪 **Toughness** | Embrace discomfort, reject excuses | Growth lives outside comfort zones |
-| 🎓 **Continuous Learning** | Never stop improving | Become 1% better daily |
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
 
-## 🌟 Transformation Milestones
+## 📊 Daily Schedule & Routine
 
 <div align="center">
 
-### 🏆 Achievement Roadmap
+### ⏰ Optimized Daily Timeline
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌅 Morning (5 AM - 12 PM)
+- **05:00** - Wake up after Fajr Prayer
+- **05:30** - English practice (Speaking/Writing)
+- **06:30** - Calisthenics training
+- **07:30** - Shower & prepare
+- **08:00** - Breakfast + Supplements
+- **08:30** - Job search & applications
+- **10:00** - Deep work (Skills/Projects)
+- **12:00** - Dhuhr Prayer
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌞 Afternoon & Evening (12 PM - 10 PM)
+- **12:30** - Continue deep work
+- **01:00** - Lunch
+- **02:00** - Reading/Learning time
+- **03:30** - Asr Prayer
+- **04:00** - Freelance platforms check
+- **06:00** - Maghrib Prayer
+- **07:00** - Dinner + Supplements
+- **08:00** - Isha Prayer
+- **08:30** - Review day & plan tomorrow
+- **10:00** - Sleep
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Success Metrics & Progress Tracking
+
+<div align="center">
+
+### 📈 Key Performance Indicators
 
 <table>
 <tr>
 <td align="center">
-<h3>📅 30 Days</h3>
-<b>Foundation Building</b>
-<br><br>
-☑️ Consistent daily routines<br>
-☑️ English practice established<br>
-☑️ Fitness baseline created<br>
-☑️ Job applications started<br>
-☑️ Profiles updated
+<h3>🗣️</h3>
+<b>English Mastery</b>
+<br>
+<sub>Daily practice all 4 skills</sub>
 </td>
 <td align="center">
-<h3>
+<h3>🧘</h3>
+<b>Holistic Balance</b>
+<br>
+<sub>Mind • Soul • Body alignment</sub>
+</td>
+<td align="center">
+<h3>💼</h3>
+<b>Career Growth</b>
+<br>
+<sub>Daily applications & networking</sub>
+</td>
+<td align="center">
+<h3>📚</h3>
+<b>Continuous Learning</b>
+<br>
+<sub>Books • Courses • Practice</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌟 Core Principles & Philosophy
+
+<div align="center">
+
+| Principle | Implementation | Expected Outcome |
+|:---------:|:---------------|:-----------------|
+| 🎯 **Discipline** | Stick to schedule and commitments | Consistent progress |
+| 🔄 **Consistency** | Show up every single day | Compound growth |
+| 📊 **Measurement** | Track progress weekly | Data-driven improvement |
+| 💪 **Resilience** | Push through challenges | Mental toughness |
+| 🌱 **Growth Mindset** | Always learning and improving | Continuous evolution |
+| ⚖️ **Balance** | Integrate all life areas | Holistic success |
+
+</div>
+
+---
+
+## 🚀 Mission Statement
+
+<div align="center">
+
+### 💡 *"Success is the sum of small efforts repeated day in and day out."*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+**My Mission:** To achieve mastery in English, balance in mind-soul-body, and success in my career through **discipline, consistency, and continuous improvement.**
+
+### 🎯 Three Pillars of Success
+
+```
+🌍 English Mastery  →  🧘 Holistic Growth  →  💼 Career Excellence
+        ↓                      ↓                       ↓
+    Fluency &              Balance &              Financial &
+   Confidence            Well-being            Professional Success
+```
+
+<sub>⭐ Commit to the journey, trust the process, and watch yourself transform!</sub>
+<br>
+<sub>📅 Last Updated: October 2025</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,19&height=100&section=footer"/>
+
+</div>
